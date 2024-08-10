@@ -22,11 +22,6 @@ dist/
 # Maven
 target/
 dist/
-addons/
-data/
-doc/
-lang/
-lib/
 
 # JetBrains IDE
 .idea/
